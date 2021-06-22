@@ -2,8 +2,8 @@
 
 Tasks Performed:
 
-1) The datasets downloaded were huge and more than 100MB each. Thus they had to be compressed in order to be uploaded to GitHub.
-2) In order to run the code, the compressed files need to be extracted first. 
+1) The datasets were downloaded from https://cloudstor.aarnet.edu.au/plus/index.php/s/2DhnLGDdEECo4ys 
+2) They were too large to be uploaded as .csv files to github. 
 3) The final dataset was created by combining the 4 datasets into a single .csv file using code in the python file.
 4) The NUSW-NB15_features.csv file contains the names of the features and were used for the column names in the final dataset.
 5) After the dataset was complete, it was checked for null values and filled with appropriate values.
