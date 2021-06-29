@@ -24,6 +24,6 @@ Tasks Performed:
 20) Hyperparameter tuning of the algorithms for anomaly detection were performed and represented usng graphs. Their perfromance metrics were measured and recorded.
 
 **Individual contribution in the project:**
-Data pre-processing
-Feature Selection
-Anomaly Detection
+- Data pre-processing
+- Feature Selection
+- Anomaly Detection
