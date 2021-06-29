@@ -1,7 +1,8 @@
 # NIDS-and-Anomaly-detection-with-AI
 
-Tasks Performed:
+**Project Description**
 
+Tasks Performed:
 1) The datasets were downloaded from https://cloudstor.aarnet.edu.au/plus/index.php/s/2DhnLGDdEECo4ys 
 2) They were too large to be uploaded as .csv files to github. 
 3) The final dataset was created by combining the 4 datasets into a single .csv file using code in the python file.
@@ -21,3 +22,8 @@ Tasks Performed:
 18) The classifiers used were- Decision Tree, Logistic Regression, Gaussian Naive Bayes and Random Forest.
 19) Anomaly detection was performed on the dataset by two different methods, Isolation Forest and Local Outlier Factor. 
 20) Hyperparameter tuning of the algorithms for anomaly detection were performed and represented usng graphs. Their perfromance metrics were measured and recorded.
+
+**Individual contribution in the project:**
+Data pre-processing
+Feature Selection
+Anomaly Detection
